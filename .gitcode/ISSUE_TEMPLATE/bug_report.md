@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: "[BUG] "
 labels: ['fz3','fz1','fz12','fz3','fz3','fz1','fz2']
-assignees: 'fwx1109767'
+assignees: 'feng'
 milestones: 'fz'
 ---
 
